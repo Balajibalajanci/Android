@@ -1,2 +1,3 @@
 # Android
-firat proj 
+first project 
+Welcome to my first project
